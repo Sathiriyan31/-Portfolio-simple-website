@@ -1,8 +1,8 @@
 
 
 
-Portfolio Website
-Welcome to my portfolio website repository!
+**Portfolio Website**
+**Welcome to my portfolio website repository!**
 
 This repository contains the code for my personal portfolio website, consisting of two main pages: Home and Contact.
 
